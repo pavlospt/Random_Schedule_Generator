@@ -1,0 +1,13 @@
+{
+"Days":[
+
+{"day_name":"Monday", "calendar":"2,9,16,23", "available_hours":"9-12,12-15,15-18"},
+{"day_name":"Tuesday", "calendar":"3,10,17,24","available_hours":"9-12,12-15,15-18"},
+{"day_name":"Wednesday", "calendar":"4,11,18,25","available_hours":"9-12,12-15,15-18"},
+{"day_name":"Thursday", "calendar":"5,12,19,26","available_hours":"9-12,12-15,15-18"},
+{"day_name":"Friday", "calendar":"6,13,20,27","available_hours":"9-12,12-15,15-18"}
+
+
+]
+
+}

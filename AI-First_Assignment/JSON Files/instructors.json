@@ -1,0 +1,354 @@
+{
+    "Instructors": [
+        {
+            "instructor": "Kuriazis",
+            "kwdikos": "301",
+            "non_available": "2"
+        },
+        {
+            "instructor": "Fountoulakis",
+            "kwdikos": "302",
+            "non_available": "9,16"
+        },
+        {
+            "instructor": "Galanos",
+            "kwdikos": "303",
+            "non_available": "22,17"
+        },
+        {
+            "instructor": "Tsaprazis",
+            "kwdikos": "304",
+            "non_available": "13,5"
+        },
+        {
+            "instructor": "Trepas",
+            "kwdikos": "305",
+            "non_available": "28,23"
+        },
+        {
+            "instructor": "Loumidis",
+            "kwdikos": "306",
+            "non_available": "26,16"
+        },
+        {
+            "instructor": "Marinou",
+            "kwdikos": "307",
+            "non_available": "14,15"
+        },
+        {
+            "instructor": "Giareni",
+            "kwdikos": "308",
+            "non_available": "5,9"
+        },
+        {
+            "instructor": "Panagopoulou",
+            "kwdikos": "309",
+            "non_available": "26,18"
+        },
+        {
+            "instructor": "Fwtakopoulou",
+            "kwdikos": "310",
+            "non_available": "10,22"
+        },
+        {
+            "instructor": "Tournaris",
+            "kwdikos": "311",
+            "non_available": "2"
+        },
+        {
+            "instructor": "Rousas",
+            "kwdikos": "312",
+            "non_available": "9,16"
+        },
+        {
+            "instructor": "Tzanoudakis",
+            "kwdikos": "313",
+            "non_available": "22,17"
+        },
+        {
+            "instructor": "Kurkos",
+            "kwdikos": "314",
+            "non_available": "13,19"
+        },
+        {
+            "instructor": "Tsifrikas",
+            "kwdikos": "315",
+            "non_available": "28,23"
+        },
+        {
+            "instructor": "Boukelatos",
+            "kwdikos": "316",
+            "non_available": "26,3"
+        },
+        {
+            "instructor": "Papadopoulos",
+            "kwdikos": "317",
+            "non_available": "27,15"
+        },
+        {
+            "instructor": "Papaprekas",
+            "kwdikos": "318",
+            "non_available": "6,9"
+        },
+        {
+            "instructor": "Gamiasmou",
+            "kwdikos": "319",
+            "non_available": "8,17"
+        },
+        {
+            "instructor": "Glezos",
+            "kwdikos": "320",
+            "non_available": "11,14"
+        },
+        {
+            "instructor": "Loizos",
+            "kwdikos": "321",
+            "non_available": "22,9"
+        },
+        {
+            "instructor": "Arnopoulos",
+            "kwdikos": "322",
+            "non_available": "10,5"
+        },
+        {
+            "instructor": "Verefontis",
+            "kwdikos": "323",
+            "non_available": "11,13"
+        },
+        {
+            "instructor": "Arseniou",
+            "kwdikos": "324",
+            "non_available": "27,5"
+        },
+        {
+            "instructor": "Tolekas",
+            "kwdikos": "325",
+            "non_available": "11,20"
+        },
+        {
+            "instructor": "Kalogeras",
+            "kwdikos": "326",
+            "non_available": "15,9"
+        },
+        {
+            "instructor": "Kamvisis",
+            "kwdikos": "327",
+            "non_available": "26,20"
+        },
+        {
+            "instructor": "Papadimos",
+            "kwdikos": "328",
+            "non_available": "3,14"
+        },
+        {
+            "instructor": "Mastrantonakis",
+            "kwdikos": "329",
+            "non_available": "2,4"
+        },
+        {
+            "instructor": "Rousis",
+            "kwdikos": "330",
+            "non_available": "10,19"
+        },
+        {
+            "instructor": "Karantinis",
+            "kwdikos": "331",
+            "non_available": "8"
+        },
+        {
+            "instructor": "Panousi",
+            "kwdikos": "332",
+            "non_available": "9,28"
+        },
+        {
+            "instructor": "Gewrgiou",
+            "kwdikos": "333",
+            "non_available": "22,17"
+        },
+        {
+            "instructor": "Ntolos",
+            "kwdikos": "334",
+            "non_available": "13,19"
+        },
+        {
+            "instructor": "Mitropoulos",
+            "kwdikos": "335",
+            "non_available": "28,23"
+        },
+        {
+            "instructor": "Katsaros",
+            "kwdikos": "336",
+            "non_available": "26,3"
+        },
+        {
+            "instructor": "Sermetzakis",
+            "kwdikos": "337",
+            "non_available": "27,15"
+        },
+        {
+            "instructor": "Polos",
+            "kwdikos": "338",
+            "non_available": "19,9"
+        },
+        {
+            "instructor": "Matzwros",
+            "kwdikos": "339",
+            "non_available": "15"
+        },
+        {
+            "instructor": "Skouris",
+            "kwdikos": "340",
+            "non_available": "11,14"
+        },
+        {
+            "instructor": "Kaliva",
+            "kwdikos": "341",
+            "non_available": "12"
+        },
+        {
+            "instructor": "Kwnstantakou",
+            "kwdikos": "342",
+            "non_available": "14,16"
+        },
+        {
+            "instructor": "Rousou",
+            "kwdikos": "343",
+            "non_available": "22,26"
+        },
+        {
+            "instructor": "Dimitropoulos",
+            "kwdikos": "344",
+            "non_available": "11,19"
+        },
+        {
+            "instructor": "Brezas",
+            "kwdikos": "345",
+            "non_available": "28"
+        },
+        {
+            "instructor": "Palaioxoritis",
+            "kwdikos": "346",
+            "non_available": "22,3"
+        },
+        {
+            "instructor": "Karagianidis",
+            "kwdikos": "347",
+            "non_available": "27,15"
+        },
+        {
+            "instructor": "Leros",
+            "kwdikos": "348",
+            "non_available": "6,18"
+        },
+        {
+            "instructor": "Arxontopoulou",
+            "kwdikos": "349",
+            "non_available": "21,25"
+        },
+        {
+            "instructor": "Dimopoylou",
+            "kwdikos": "350",
+            "non_available": "22"
+        },
+        {
+            "instructor": "Veretziotis",
+            "kwdikos": "351",
+            "non_available": "26"
+        },
+        {
+            "instructor": "Sgardelis",
+            "kwdikos": "352",
+            "non_available": "9,16"
+        },
+        {
+            "instructor": "Panagouli",
+            "kwdikos": "353",
+            "non_available": "22,17"
+        },
+        {
+            "instructor": "Tsogas",
+            "kwdikos": "354",
+            "non_available": "15,19"
+        },
+        {
+            "instructor": "Papakwnstantinou",
+            "kwdikos": "355",
+            "non_available": "28,11"
+        },
+        {
+            "instructor": "Psomas",
+            "kwdikos": "356",
+            "non_available": "3"
+        },
+        {
+            "instructor": "Poloudis",
+            "kwdikos": "357",
+            "non_available": "18"
+        },
+        {
+            "instructor": "Gerakoudis",
+            "kwdikos": "358",
+            "non_available": "8,9"
+        },
+        {
+            "instructor": "Gatzounis",
+            "kwdikos": "359",
+            "non_available": "8,17"
+        },
+        {
+            "instructor": "Karagiannis",
+            "kwdikos": "360",
+            "non_available": "18,14"
+        },
+        {
+            "instructor": "Strogulou",
+            "kwdikos": "361",
+            "non_available": "2"
+        },
+        {
+            "instructor": "Vossis",
+            "kwdikos": "362",
+            "non_available": "1,16"
+        },
+        {
+            "instructor": "Aggelatos",
+            "kwdikos": "363",
+            "non_available": "17"
+        },
+        {
+            "instructor": "Rigas",
+            "kwdikos": "364",
+            "non_available": "13,15"
+        },
+        {
+            "instructor": "Kanelos",
+            "kwdikos": "365",
+            "non_available": "28,23"
+        },
+        {
+            "instructor": "Diamantidis",
+            "kwdikos": "366",
+            "non_available": "26,3"
+        },
+        {
+            "instructor": "Voutetakis",
+            "kwdikos": "367",
+            "non_available": "22,15"
+        },
+        {
+            "instructor": "Metzesemis",
+            "kwdikos": "368",
+            "non_available": "6,9"
+        },
+        {
+            "instructor": "Xalkidi",
+            "kwdikos": "369",
+            "non_available": "17"
+        },
+        {
+            "instructor": "Smilianou",
+            "kwdikos": "370",
+            "non_available": "14"
+        }
+    ]
+}
