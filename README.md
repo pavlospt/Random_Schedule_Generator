@@ -8,3 +8,12 @@ This Project was the result of the First Assignment in the Course  Artificial In
 Department of Athens University of Economics and Business.
 
 YOu are welcome to fork the project, make it better and propose changes :) 
+
+
+Original Authors
+================
+
+Rousas Apostolos - g.tzanoudakhs@gmail.com
+Tzanoudakis Georgios - chesterlos@gmail.com
+Tournaris Paulos-Petros - p.tournaris@gmail.com	
+
