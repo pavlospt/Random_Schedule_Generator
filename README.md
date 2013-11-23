@@ -14,6 +14,8 @@ Original Authors
 ================
 
 Rousas Apostolos - g.tzanoudakhs@gmail.com
+
 Tzanoudakis Georgios - chesterlos@gmail.com
+
 Tournaris Paulos-Petros - p.tournaris@gmail.com	
 
