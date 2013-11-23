@@ -13,9 +13,9 @@ You are welcome to fork the project, make it better and propose changes :)
 Original Authors
 ================
 
-Rousas Apostolos - g.tzanoudakhs@gmail.com
+Rousas Apostolos - chesterlos93@gmail.com
 
-Tzanoudakis Georgios - chesterlos@gmail.com
+Tzanoudakis Georgios - g.tzanoudakhs@gmail.com
 
 Tournaris Paulos-Petros - p.tournaris@gmail.com	
 

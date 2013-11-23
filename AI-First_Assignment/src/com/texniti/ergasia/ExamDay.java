@@ -1,7 +1,7 @@
 package com.texniti.ergasia;
 
 //Paulos-Petros Tournaris 3110199 - p.tournaris@gmail.com	
-//Georgios Tzanoydakhs 3110194 - chesterlos@gmail.com
+//Georgios Tzanoydakhs 3110194 - chesterlos93@gmail.com
 //Rousas Apostolos 3110173 - g.tzanoudakhs@gmail.com
 
 
