@@ -1,4 +1,4 @@
-Random_Schedule_Generator
+Random Schedule Generator
 =========================
 
 Generate random Schedule for Schools or Universities, based on your personal data
