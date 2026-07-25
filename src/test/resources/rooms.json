@@ -1,0 +1,10 @@
+{
+   "Rooms" : [
+      {"room_code":"001", "room_name":"A1", "room_space":"small"},
+      {"room_code":"005", "room_name":"A2", "room_space":"small"},
+      {"room_code":"002", "room_name":"B1", "room_space":"normal"},
+      {"room_code":"003", "room_name":"B2", "room_space":"normal"},
+      {"room_code":"006", "room_name":"C1", "room_space":"large"},
+      {"room_code":"007", "room_name":"C2", "room_space":"large"}
+    ]
+}
